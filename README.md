@@ -23,4 +23,4 @@ M. Croci & J. Muñoz-Matute, Exploiting Kronecker structure in exponential integ
 Acknowledgements
 ----------------
 
-This material is based upon work supported by the Department of Energy, NNSA under Award Number DE-NA0003969.
+This material is based upon work supported by the Department of Energy, NNSA under Award Number DE-NA0003969 and also by the European Union’s Horizon 2020 research and innovation program under the Marie Sklodowska-Curie individual fellowship No. 101017984 (GEODPG).
