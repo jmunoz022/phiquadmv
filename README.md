@@ -15,6 +15,13 @@ Installation
 
 Just make sure that chebfun and the contents of the src folder are in the Matlab path.
 
+Usage
+------
+In the examples folder: 
+* HochOster_2D_gauss.m --> Script to compute the Hochbruck-Osterman equation in 2D+time with three different Exponential Runge-Kutta methods (orders 1 to 3) and check the convergence of the error in time. 
+* AllenCahn_2D_gauss.m --> Script to compute the 2D+time Allen-Cahn equation with a star-shaped initial condition with the Exponential Euler method.
+
+
 References
 ----------
 
